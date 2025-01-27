@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 39_SBMS_JSP
+  mvc:
+    view:
+      prefix: /views/
+      suffix: .jsp

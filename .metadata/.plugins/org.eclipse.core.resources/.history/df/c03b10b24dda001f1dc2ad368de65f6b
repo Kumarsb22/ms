@@ -1,0 +1,4 @@
+spring.application.name=39_SBMS_JSP
+
+spring.mvc.view.prefix=/views/
+spring.mvc.view.suffix=.jsp
