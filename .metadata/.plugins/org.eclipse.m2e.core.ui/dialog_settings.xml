@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\sm\sbms\41_SBMS_HHTP_JASON_JACKSON_API"/>
 			<item value="D:\sm\sbms\39_SBMS_JSP\39_SBMS_JSP"/>
 			<item value="D:\sm\sbms\39_SBMS_ACTUATOR\39_SBMS_ACTUATOR"/>
 			<item value="D:\sm\sbms\38_SBMS_TOM_JETTY_NETTY\38_SBMS_TOM_JETTY_NETTY"/>
