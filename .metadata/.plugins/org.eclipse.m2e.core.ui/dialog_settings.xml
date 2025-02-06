@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\sm\sbms\43_SBMS_CONS_PRODU"/>
+			<item value="D:\sm\sbms\42_SBMS_HTTPSTAS_CODE"/>
+			<item value="D:\sm\sbms\42_SBMS_HIBERNATE_CRUD"/>
 			<item value="D:\sm\sbms\41_SBMS_HHTP_JASON_JACKSON_API"/>
 			<item value="D:\sm\sbms\39_SBMS_JSP\39_SBMS_JSP"/>
 			<item value="D:\sm\sbms\39_SBMS_ACTUATOR\39_SBMS_ACTUATOR"/>

@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: 43_SBMS_CONS_PRODU
+ 
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5433/emp
+    username: postgres
+    password: nic@123
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true    
