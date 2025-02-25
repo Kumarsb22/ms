@@ -24,10 +24,10 @@ public class UserRestController {
 	@Autowired
 	private UserServiceImpl serviceImpl;
 
-	@PostMapping(value = "/user", produces = MediaType.TEXT_PLAIN_VALUE, consumes = MediaType.APPLICATION_JSON_VALUE)
+	@PostMapping(value = "/user")
 	public ResponseEntity<String> resgisterUser(@Valid @RequestBody UserRequest request) {
 		System.out.println(request);
-		 boolean saveUser = this.serviceImpl.saveUser(request);
+		boolean saveUser = this.serviceImpl.saveUser(request);
 		if (saveUser) {
 			if (request.getUserId() == null) {
 				return ResponseEntity.ok("User Register successfully");

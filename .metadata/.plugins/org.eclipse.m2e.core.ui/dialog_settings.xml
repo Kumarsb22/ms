@@ -2,6 +2,10 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\sm\sbms\SBMS_REST_REPO"/>
+			<item value="D:\sm\sbms\SBMS_WEB_CLIENT"/>
+			<item value="D:\sm\sbms\SBMS_WEB_CLIENT_RESTTEMPLATE\SBMS_WEB_CLIENT_RESTTEMPLATE"/>
+			<item value="D:\sm\sbms\SBMS_WEB_CLIENT_RESTTEMPLATE"/>
 			<item value="D:\sm\sbms\43_SBMS_CONS_PRODU"/>
 			<item value="D:\sm\sbms\42_SBMS_HTTPSTAS_CODE"/>
 			<item value="D:\sm\sbms\42_SBMS_HIBERNATE_CRUD"/>
