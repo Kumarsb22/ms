@@ -3,4 +3,6 @@ server:
 
 spring:
   application:
-    name: MS_ADMIN_SERVER
+    name: MS-ADMIN-SERVER
+  devtools:
+    add-properties: false
