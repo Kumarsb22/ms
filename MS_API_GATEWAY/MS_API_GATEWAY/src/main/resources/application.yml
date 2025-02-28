@@ -1,0 +1,57 @@
+
+server:
+  port: 3333
+
+spring:
+  application:
+    name: MS-API-GATEWAY
+
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+      routes:
+       - id: MS-GREET-API
+         uri: lb://MS-GREET-API
+         predicates: 
+           - Path=/greet
+       - id: MS-WELCOME-API
+         uri: lb://MS-WELCOME-API
+         predicates: 
+           - Path=/welcome
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#  cloud:
+#    gateway:
+#      discovery:
+#        locator:
+#          enabled: true
+#          lower-case-service-id: true
+#      routes:
+#       - id:  MS-GREET-API
+#         uri: lb://MS-GREET-API
+#         predicates: 
+#           - Path/greet
+#       -  id: MS-WELCOME-API
+#          uri: lb://MS-WELCOME-API
+#          predicates: 
+#            - Path/welcome      
+              
+            
+
+#  cloud:
+#    gateway:
+#       discovery:
+#           locator:
+#             enabled: true
+#             lowerCaseserviceId: true
+ 

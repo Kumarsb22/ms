@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\sm\sbms\MS_GREET_API"/>
+			<item value="D:\sm\sbms\MS_WELCOME_API"/>
 			<item value="D:\sm\sbms\MS_ADMIN_SERVER"/>
 			<item value="D:\sm\sbms\MS_SERVICE_RESGISTERY"/>
 			<item value="D:\sm\sbms\SBMS_REST_REPO"/>

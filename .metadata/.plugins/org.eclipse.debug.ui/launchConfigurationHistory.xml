@@ -3,15 +3,15 @@
     <launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
         <mruHistory>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_GREET_API - MsGreetApiApplication (1)&quot;/&gt;&#13;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_WELCOME_API - MsWelcomeApiApplication&quot;/&gt;&#13;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_GREET_API - MsGreetApiApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_SERVICE_RESGISTERY - MsServiceResgisteryApplication&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_WELCOME_API - MsWelcomeApiApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_ADMIN_SERVER - MsAdminServerApplication&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_API_GATEWAY - MsApiGatewayApplication&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_GREET_API - MsGreetApiApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SBMS_REST_REPO - SbmsRestRepoApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SBMS_WEB_CLIENT - SbmsWebClientApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SBMS_WEB_CLIENT_RESTTEMPLATE - SbmsResttemplateApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;43_SBMS_CONS_PRODU - Application&quot;/&gt;&#13;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;42_SBMS_HTTPSTAS_CODE - Application&quot;/&gt;&#13;&#10;"/>
         </mruHistory>
         <favorites/>
     </launchGroup>
@@ -30,15 +30,15 @@
     <launchGroup id="org.eclipse.debug.ui.launchGroup.run">
         <mruHistory>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_GREET_API - MsGreetApiApplication (1)&quot;/&gt;&#13;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_WELCOME_API - MsWelcomeApiApplication&quot;/&gt;&#13;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_GREET_API - MsGreetApiApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_SERVICE_RESGISTERY - MsServiceResgisteryApplication&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_WELCOME_API - MsWelcomeApiApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_ADMIN_SERVER - MsAdminServerApplication&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_API_GATEWAY - MsApiGatewayApplication&quot;/&gt;&#13;&#10;"/>
+            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;MS_GREET_API - MsGreetApiApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SBMS_REST_REPO - SbmsRestRepoApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SBMS_WEB_CLIENT - SbmsWebClientApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SBMS_WEB_CLIENT_RESTTEMPLATE - SbmsResttemplateApplication&quot;/&gt;&#13;&#10;"/>
             <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;43_SBMS_CONS_PRODU - Application&quot;/&gt;&#13;&#10;"/>
-            <launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;42_SBMS_HTTPSTAS_CODE - Application&quot;/&gt;&#13;&#10;"/>
         </mruHistory>
         <favorites/>
     </launchGroup>
