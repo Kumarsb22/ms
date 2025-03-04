@@ -4,17 +4,32 @@
 spring:
   application:
     name: MS-WELCOME-API
-#Admin server manually we configuring    
-  boot:
-    admin:
-      client:
-        url: http://localhost:8081
-        
-#all actuator endpoints should be exposed
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
-       
-        
+   
+   
+  config:
+    import: optional:configserver:http://localhost:6666
+    
+  datasource:
+    url: jdbc:postgresql://localhost:5433/emp
+    username: postgres
+    password: nic@123
+    driver-class-name: org.postgresql.Driver
+   
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true  
+##Admin server manually we configuring    
+#  boot:
+#    admin:
+#      client:
+#        url: http://localhost:8081
+#        
+##all actuator endpoints should be exposed
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
+#       
+#        

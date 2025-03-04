@@ -2,6 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\sm\sbms\SS_INMEMORY_AUTH"/>
+			<item value="D:\sm\sbms\SS_BASIC_AUTH"/>
+			<item value="D:\sm\sbms\MS_CIRCUIT_BREAKER"/>
+			<item value="D:\sm\sbms\MS_REDIS_DB_APP"/>
+			<item value="D:\sm\sbms\MS_CONFIG_SERVER"/>
+			<item value="D:\sm\sbms\MS_API_GATEWAY"/>
 			<item value="D:\sm\sbms\MS_GREET_API"/>
 			<item value="D:\sm\sbms\MS_WELCOME_API"/>
 			<item value="D:\sm\sbms\MS_ADMIN_SERVER"/>
@@ -11,12 +17,6 @@
 			<item value="D:\sm\sbms\SBMS_WEB_CLIENT_RESTTEMPLATE\SBMS_WEB_CLIENT_RESTTEMPLATE"/>
 			<item value="D:\sm\sbms\SBMS_WEB_CLIENT_RESTTEMPLATE"/>
 			<item value="D:\sm\sbms\43_SBMS_CONS_PRODU"/>
-			<item value="D:\sm\sbms\42_SBMS_HTTPSTAS_CODE"/>
-			<item value="D:\sm\sbms\42_SBMS_HIBERNATE_CRUD"/>
-			<item value="D:\sm\sbms\41_SBMS_HHTP_JASON_JACKSON_API"/>
-			<item value="D:\sm\sbms\39_SBMS_JSP\39_SBMS_JSP"/>
-			<item value="D:\sm\sbms\39_SBMS_ACTUATOR\39_SBMS_ACTUATOR"/>
-			<item value="D:\sm\sbms\38_SBMS_TOM_JETTY_NETTY\38_SBMS_TOM_JETTY_NETTY"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

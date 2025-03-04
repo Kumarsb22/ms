@@ -1,29 +1,26 @@
-
 server:
   port: 2222
-  
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/Kumarsb22/ms-config-properties.git
-          clone-on-start: true
-    
 
+spring:
+  config:
+    import: optional:configserver:http://localhost:6666
   application:
     name: MS-GREET-API
 
-  boot:
-    admin:
-      client:
-        url: http://localhost:8081
-        
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
-        
+    
+
+
+
+#  boot:
+#    admin:
+#      client:
+#        url: http://localhost:8081
+#        
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: '*'
+#        
         
                 

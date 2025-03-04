@@ -1,0 +1,18 @@
+server:
+  port: 6666
+spring:
+  application:
+    name: MS_CONFIG_SERVER
+
+    
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Kumarsb22/ms-config-properties
+          clone-on-start: true
+          
+          
+management:
+   security:
+     enable: false          

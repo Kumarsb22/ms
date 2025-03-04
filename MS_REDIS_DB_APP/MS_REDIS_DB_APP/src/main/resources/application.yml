@@ -1,0 +1,14 @@
+server:
+  port: 7777
+  
+spring:
+  application:
+    name: MS-REDIS-DB-APP
+
+  data:
+    redis:
+      url: 
+      port: 10332
+      username: 
+      password: 
+    

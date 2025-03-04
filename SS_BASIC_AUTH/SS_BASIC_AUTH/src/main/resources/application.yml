@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: SS_BASIC_AUTH
+
+  security:
+    user:
+      name: kumar
+      password: kumar@123
